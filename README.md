@@ -37,9 +37,10 @@ This layout reflects my ongoing journey with Huawei eNSP. Enjoy exploring and le
 
 ---
 
-
-https://github.com/user-attachments/assets/9c5b449d-a37e-4062-be6d-fa604b7c1d06
-
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/1.%20Intro%20Your%20First%20Steps%20in%20the%20VRP%20CLI__.mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 
@@ -62,7 +63,11 @@ https://github.com/user-attachments/assets/9c5b449d-a37e-4062-be6d-fa604b7c1d06
 
 
 
-https://github.com/user-attachments/assets/36ceffa7-4059-4c88-a59e-a5474b8fd791
+
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/2.%20IP%20Addresses,%20Routes,%20and%20the%20Digital%20Post%20Office.mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 
@@ -118,7 +123,12 @@ Below are the key commands , organized by lab and device. Click on thelab to vie
 
 
 
-https://github.com/user-attachments/assets/42ac10f7-c961-474f-80b1-2970678cc545
+### Lab 2: OSPF Routing Audio Overview
+
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/3.%20OSPF%20Under%20the%20Hood%20From%20Basic%20Setup%20to%20Traffic%20Control.mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 
@@ -167,8 +177,12 @@ https://github.com/user-attachments/assets/42ac10f7-c961-474f-80b1-2970678cc545
 
 
 
-https://github.com/user-attachments/assets/ef2bdf4b-fad4-48ab-9f40-c4a91d3d8e6c
+h### Lab 3.1: Ethernet Basics and VLAN Configuration Audio Overview
 
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/4.%20Ethernet%20Basics%20and%20VLAN%20Configuration.mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 
@@ -216,7 +230,12 @@ https://github.com/user-attachments/assets/ef2bdf4b-fad4-48ab-9f40-c4a91d3d8e6c
 
 
 
-https://github.com/user-attachments/assets/3b47bd3c-90e0-4ff9-aadf-8a6b10dd4679
+### Lab 3.2: Spanning Tree Configuration Audio Overview
+
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/5.%20Mastering%20STP%20and%20RSTP%20to%20Conquer%20Network%20Loops.mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 
@@ -279,9 +298,13 @@ https://github.com/user-attachments/assets/3b47bd3c-90e0-4ff9-aadf-8a6b10dd4679
 
 
 
-https://github.com/user-attachments/assets/9f59783b-f3c4-4dea-bb44-0399cd09255c
 
+### Lab 3.3: Ethernet Link Aggregation Audio Overview
 
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/6.%20Mastering%20Link%20Aggregation%20(Manual%20vs.%20LACP).mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 
@@ -325,7 +348,12 @@ communication
 
 
 
-https://github.com/user-attachments/assets/9eb75b4b-6a27-45b7-9e32-530b126bc161
+### Lab 4.0: Inter-VLAN Communication Audio Overview
+
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/7.%20InterVLAN%20Communication.mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 
@@ -399,8 +427,12 @@ https://github.com/user-attachments/assets/9eb75b4b-6a27-45b7-9e32-530b126bc161
 
 
 
-https://github.com/user-attachments/assets/b059e532-4c7c-4f1b-8c18-85dfea7a3619
+### Lab 4.1: ACL Configuration Audio Overview
 
+<audio controls>
+  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/7%20b.Digital%20door%20man%20door%20man%20Access%20Control%20List.mp4" type="video/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 
 

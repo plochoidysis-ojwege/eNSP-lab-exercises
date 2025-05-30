@@ -904,7 +904,7 @@ https://github.com/user-attachments/assets/1fb7509b-ea7e-44cb-833e-85e83a645461
 
 ## Resources
 - [How to install eNSP](https://www.youtube.com/watch?v=gLEQx5JJYA0)
-- [prerequisite](https://github.com/plochoidysis-ojwege/eNSP-labs/tree/main/Prerequisites/Real%20Notes)
+- [prerequisite](https://github.com/plochoidysis-ojwege/eNSP-lab-exercises/tree/master/Prerequisites/Real%20Notes)
 - [Wireshark Documentation](https://www.wireshark.org/docs/) 
 - [Huawei Talent Learning Portal](https://e.huawei.com/en/talent/learning/#/home)
 - [Basic Networking Cheat Sheet (Community Maintained)](https://github.com/trimstray/the-book-of-secret-knowledge)
@@ -912,6 +912,6 @@ https://github.com/user-attachments/assets/1fb7509b-ea7e-44cb-833e-85e83a645461
 ---
 
 - Any contributions and suggestions are welcome.
-
+- If you are interested to collaborate or have a suggestions, contact me : denzelninga001@gmail.com
 
 ---

@@ -27,7 +27,7 @@ This layout reflects my ongoing journey with Huawei eNSP. Enjoy exploring and le
 - **Table of Contents**: Click a lab in the list above to jump right to that section.
 - **Objectives**: Each lab begins with brief objectives.
 - **Topology Diagrams**: Get a visual overview of the network setup for each exercise.
-- **Generated Audio overviews**: Below the topology diagram of each lab,is an MP4 audio overview .Incase an audio fail to play, just re-sync or refresh your browser(This is a common issue ,especially after playing an audio, the next could fail).
+- **Generated Audio overviews**: Below the topology diagram of each lab,is an MP4 audio overview .Incase an audio fail to play, just re-sync or refresh your browser 
 - **Key Commands**: Just below the generated audio overview, click on each lab key commands,they are on collapsible sections
 - **Configuration Steps**: If you choose to,follow the commands and add screenshots that show how each lab is set up. I have added some verications in collasible sections, but it's a journey ,soon all sections will be updated.
 - **Verification**: Confirm if the lab works, through ping , tracert and by confirming in the routing tables.
@@ -36,11 +36,11 @@ This layout reflects my ongoing journey with Huawei eNSP. Enjoy exploring and le
 
 
 ---
+### First Steps in the VRP CLI
+This audio explains first steps in using the VRP CLI.
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/1.%20Intro%20Your%20First%20Steps%20in%20the%20VRP%20CLI__.mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
+**Listen here:** [The VRP CLI explained](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section1)
+
 
 
 
@@ -64,10 +64,8 @@ This layout reflects my ongoing journey with Huawei eNSP. Enjoy exploring and le
 
 
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/2.%20IP%20Addresses,%20Routes,%20and%20the%20Digital%20Post%20Office.mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
+
+Listen to the explanation on IP Addresses and Routes: [Go to Audio Player (Section 2)](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section2)
 
 
 
@@ -75,8 +73,7 @@ This layout reflects my ongoing journey with Huawei eNSP. Enjoy exploring and le
 
 
 
-
-Below are the key commands , organized by lab and device. Click on thelab to view the commands.
+Click on the collapsible section below to view the key commands.
 
 <details>
   <summary><strong>Lab 1: IPv4 Addressing and Routing key commands</strong></summary>
@@ -125,14 +122,14 @@ Below are the key commands , organized by lab and device. Click on thelab to vie
 
 ### Lab 2: OSPF Routing Audio Overview
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/3.%20OSPF%20Under%20the%20Hood%20From%20Basic%20Setup%20to%20Traffic%20Control.mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
+
+### <a name="ospf-overview"></a> OSPF overview
+How OSPF works.
+
+**Listen to the explanation here:** [Go to Section 3 Audio](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section3)
 
 
 
-*
 
 <details>
   <summary><strong>Lab 2: OSPF Routing key commands</strong></summary>
@@ -177,12 +174,10 @@ Below are the key commands , organized by lab and device. Click on thelab to vie
 
 
 
-h### Lab 3.1: Ethernet Basics and VLAN Configuration Audio Overview
+ 
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/4.%20Ethernet%20Basics%20and%20VLAN%20Configuration.mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
+**Listen to the explanation:** [Go to Section 4 Audio](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section4)
+
 
 
 
@@ -229,13 +224,9 @@ h### Lab 3.1: Ethernet Basics and VLAN Configuration Audio Overview
 
 
 
+**Listen to the explanation here:** [Go to Section 5 Audio](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section5)
 
-### Lab 3.2: Spanning Tree Configuration Audio Overview
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/5.%20Mastering%20STP%20and%20RSTP%20to%20Conquer%20Network%20Loops.mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
 
 
 
@@ -297,14 +288,10 @@ h### Lab 3.1: Ethernet Basics and VLAN Configuration Audio Overview
 
 
 
+**Listen to the explanation:** [Go to Section 6 Audio](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section6)
 
 
-### Lab 3.3: Ethernet Link Aggregation Audio Overview
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/6.%20Mastering%20Link%20Aggregation%20(Manual%20vs.%20LACP).mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
 
 
 
@@ -348,13 +335,10 @@ communication
 
 
 
-### Lab 4.0: Inter-VLAN Communication Audio Overview
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/7.%20InterVLAN%20Communication.mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
+**Listen to the explanation:** [Go to Section 7 Audio](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section8)
 
+---
 
 
 
@@ -424,15 +408,14 @@ communication
 
 
 
+### <a name="access-control-lists"></a>7 b. Access Control Lists overview (the digital doorman)
+An audio lesson on configuring Access Control Lists.
+
+**Listen to the explanation on the dedicated lab page:** [Go to Section 7b Audio](https://plochoidysis-ojwege.github.io/eNSP-lab-exercises/#section7)
 
 
 
-### Lab 4.1: ACL Configuration Audio Overview
 
-<audio controls>
-  <source src="https://plochoidysis-ojwege.github.io/Huawei/Images%20and%20audios%20of%20the%20labs/Audios%20of%20the%20labs/MP4/7%20b.Digital%20door%20man%20door%20man%20Access%20Control%20List.mp4" type="video/mp4">
-  Your browser does not support the audio element.
-</audio>
 
 
 
@@ -944,6 +927,6 @@ https://github.com/user-attachments/assets/1fb7509b-ea7e-44cb-833e-85e83a645461
 ---
 
 - Any contributions and suggestions are welcome.
-- If you are interested to collaborate or have any suggestions, contact me : denzelninga001@gmail.com
+- If you are interested to collaborate or have a suggestions, contact me : denzelninga001@gmail.com
 
 ---
